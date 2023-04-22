@@ -1,0 +1,21 @@
+
+*{
+
+    font-family: sans-serif;
+
+}
+
+body{
+    background-color: slategray;
+}
+
+h1, h2, h3{
+    color: aliceblue;
+}
+
+
+img{
+    width: 200px;
+    border-radius: 5px;
+    margin-left: 15px;
+}
